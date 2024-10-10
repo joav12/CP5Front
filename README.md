@@ -7,4 +7,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 npm i
 npm dev
 
-Voce ta na parte 5:https://nextjs.org/learn/dashboard-app/navigating-between-pages
+Voce ta na parte 10:https://nextjs.org/learn/dashboard-app/partial-prerendering
