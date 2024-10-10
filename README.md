@@ -4,7 +4,8 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-npm i
-npm dev
+pnpm i
+
+pnpm dev
 
 Voce ta na parte 4:https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages
